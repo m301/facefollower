@@ -4,7 +4,7 @@ Simple face feature detection using haarcascade & dlib - follower using arduino 
 
 
 # Demo
- ![demo](demo.gif)
+ ![demo](doc/demo.gif)
  
 
 # Scope
